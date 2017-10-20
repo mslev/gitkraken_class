@@ -2,6 +2,7 @@ Mars is a red planet.
 It is cold and dry, but everything is my favorite color.
 
 Wassup!! two moons may make things interesting.
+The two moons may make things interesting like the sun.
 
 Another commit, this time through the web version.
 
